@@ -2,15 +2,15 @@
 
 
 
-print(hello world)
+print(GREAT world)
 
 
-print(Nice to meet you)
+print(Nice to meet yae)
 
 
-a = 3
+a = 70
 
-b = 56
+b = 13
 
-print(a+b)
+print(a-b)
 
